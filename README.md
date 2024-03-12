@@ -1,2 +1,1 @@
-# gazicyber-2021
-Gazi Üniversitesi Gazicyber kulübü 2021 sitesi
+Gazi University Cyber Security Community 2016 Website
